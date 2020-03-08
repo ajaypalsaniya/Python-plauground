@@ -15,4 +15,3 @@ class Game:
 player1 = Game("ajay","palsaniya","goalkeeper","7")
 print(player1.full_name())
 print(player1.jursy())
-print(Game.__weakref__)
